@@ -3,6 +3,8 @@ using System;
 
 Console.WriteLine("Hello");
 Console.WriteLine("Novi tekst");
+Console.WriteLine("drugi tekst");
+
 
 
 
